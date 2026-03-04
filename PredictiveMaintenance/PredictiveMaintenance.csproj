@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Daany.DataFrame" Version="1.3.5" />
+    <PackageReference Include="Daany.DataFrame.Ext" Version="1.3.5" />
+    <PackageReference Include="Daany.LinA.win-x64" Version="1.3.5" />
+    <PackageReference Include="Daany.Stat" Version="1.3.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Html.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.ML" Version="1.7.1" />
+    <PackageReference Include="Microsoft.ML.AutoML" Version="0.19.1" />
+    <PackageReference Include="Microsoft.ML.FastTree" Version="1.7.1" />
+    <PackageReference Include="Microsoft.ML.LightGbm" Version="1.7.1" />
+    <PackageReference Include="Microsoft.ML.TimeSeries" Version="1.7.1" />
+  </ItemGroup>
+</Project>
