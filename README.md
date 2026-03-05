@@ -7,7 +7,7 @@
 ## Dataset
 
 - Dataset: **AI4I 2020 Predictive Maintenance Dataset**  
-- Source: ```https://www.kaggle.com/datasets/shivamb/ai4i-2020-predictive-maintenance-dataset```
+- Source: https://www.kaggle.com/datasets/shivamb/ai4i-2020-predictive-maintenance-dataset
 
 - Note: Column names in this repository omit the unit annotations (e.g., `[K]`, `[rpm]`, `[Nm]`) present in the original dataset.
 
