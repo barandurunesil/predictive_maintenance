@@ -40,8 +40,8 @@
 ## Results
 
 - **Accuracy:** ~99%
-- **AUC:** ~0.97
-- **F1-score:** ~0.81
+- **AUC:** 0.97
+- **F1-score:** 0.81
 
 ## Usage
 
